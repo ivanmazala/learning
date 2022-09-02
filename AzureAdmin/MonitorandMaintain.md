@@ -5,34 +5,34 @@ https://docs.microsoft.com/en-us/powershell/module/az.compute/Set-AzVMBootDiagno
 https://docs.microsoft.com/en-us/powershell/module/az.monitor/set-azdiagnosticsetting?view=azps-8.2.0&viewFallbackFrom=azps-2.6.0
 https://docs.microsoft.com/en-us/powershell/module/az.compute/set-azvmdiagnosticsextension?view=azps-8.2.0&viewFallbackFrom=azps-2.6.0
 https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/diagnostics-windows
-Monitor device telemetry and configure alerts
+## Monitor device telemetry and configure alerts
 https://docs.microsoft.com/en-us/azure/service-health/resource-health-overview
 https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
 https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/resource-logs-schema
 https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/platform-logs-overview
-Database Alerts
+## Database Alerts
 https://docs.microsoft.com/en-us/azure/azure-sql/database/monitor-tune-overview?view=azuresql
 https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/action-groups
 https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-overview
-Application Monitoring and Alerting
+## Application Monitoring and Alerting
 https://docs.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-syslog
 https://docs.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-windows-events
 https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-create-new-alert-rule?tabs=metric
 https://docs.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-tutorial
-Azure Monitor to configure alert for VM
-Query across all diagnostic data emitted by your resources  
+## Azure Monitor to configure alert for VM
+## Query across all diagnostic data emitted by your resources  
 https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-create
 https://docs.microsoft.com/en-us/azure/azure-monitor/agents/agent-windows?tabs=setup-wizard
 https://docs.microsoft.com/en-us/azure/azure-monitor/logs/log-query-overview
 https://docs.microsoft.com/en-us/azure/azure-monitor/logs/quick-create-workspace?tabs=azure-portal
-Azure Monitor
+## Azure Monitor
 https://docs.microsoft.com/en-us/azure/sentinel/overview
 https://docs.microsoft.com/en-us/azure/azure-monitor/overview
-Alert Rules
+## Alert Rules
 https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-types
-Azure Monitor Log Query
+## Azure Monitor Log Query
 https://docs.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-chart-visualizations
-Log Analytics VM Extension
+##Log Analytics VM Extension
 https://docs.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine
 https://docs.microsoft.com/en-us/azure/azure-monitor/insights/alert-management-solution
 Azure Monitor Alerts
@@ -40,7 +40,7 @@ https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview
 https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-rate-limiting
 ## Azure Monitor Metrics Alerts
 https://docs.microsoft.com/en-us/cli/azure/monitor/metrics/alert?view=azure-cli-latest
-Diagnostics Loggins for Apps in Azure App Service
+## Diagnostics Loggins for Apps in Azure App Service
 https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-diagnostic-logs
 ## Boot Diagnostics and Diagnostic Settings in Azure Monitor
 https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/boot-diagnostics
