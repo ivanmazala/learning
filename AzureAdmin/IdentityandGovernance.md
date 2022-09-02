@@ -40,7 +40,7 @@ https://docs.microsoft.com/en-us/azure/governance/policy/concepts/definition-str
 
 ## Azure Role Definitions
 https://docs.microsoft.com/en-us/azure/role-based-access-control/role-definitions
-Azure Resource Lock
+## Azure Resource Lock
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json
 https://docs.microsoft.com/en-us/azure/governance/blueprints/concepts/resource-locking
 
