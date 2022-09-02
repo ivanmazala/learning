@@ -36,10 +36,12 @@ https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-types
 
 ## Azure Monitor Log Query
 https://docs.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-chart-visualizations
+
 ##Log Analytics VM Extension
 https://docs.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine
 https://docs.microsoft.com/en-us/azure/azure-monitor/insights/alert-management-solution
-Azure Monitor Alerts
+
+## Azure Monitor Alerts
 https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview
 https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-rate-limiting
 
