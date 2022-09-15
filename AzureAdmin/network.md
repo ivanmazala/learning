@@ -82,4 +82,4 @@ https://docs.microsoft.com/en-us/powershell/module/az.network/new-aznetworksecur
 https://docs.microsoft.com/en-us/powershell/module/az.network/new-aznetworksecuritygroup?view=azps-8.3.0&viewFallbackFrom=azps-2.6.0
 https://docs.microsoft.com/en-us/powershell/module/az.network/set-aznetworksecurityruleconfig?view=azps-8.3.0&viewFallbackFrom=azps-2.6.0
 https://docs.microsoft.com/en-us/powershell/module/az.network/set-aznetworkinterfaceipconfig?view=azps-8.3.0&viewFallbackFrom=azps-2.6.0
-![image](https://user-images.githubusercontent.com/37384171/190394651-cf4de98e-28a2-4d3d-a7cd-2417086a3172.png)
+
