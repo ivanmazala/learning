@@ -76,4 +76,4 @@ https://docs.microsoft.com/en-us/powershell/module/az.compute/update-azvmss?view
 https://docs.microsoft.com/en-us/powershell/module/az.compute/set-azvmssvm?view=azps-8.3.0&viewFallbackFrom=azps-3.6.1
 https://docs.microsoft.com/en-us/powershell/module/az.compute/new-azdisk?view=azps-8.2.0
 https://docs.microsoft.com/en-us/powershell/module/az.compute/new-azvm?view=azps-8.2.0
-![image](https://user-images.githubusercontent.com/37384171/190596516-a393d29e-9291-4993-a974-7395577fdda8.png)
+
